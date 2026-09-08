@@ -963,6 +963,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "marisa-kirisame--eigentom": {
+      "name": "Marisa Kirisame",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "57760a9e99bd8e7c1a8f599c73b087da1cb960f096f9357d0ecb32b5c3d99f4a",
+      "petJsonBytes": 215,
+      "spritesheetSha256": "5842270ef211d339265f1eec88c406573c7f3f31a308d55bbd243253d7bdc7e0",
+      "spritesheetBytes": 1480622,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "mellow-duck--sally-entr": {
       "name": "Mellow Duck",
       "spriteVersionNumber": 1,
