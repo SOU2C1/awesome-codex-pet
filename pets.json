@@ -544,6 +544,21 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "fang-yuan--kelleszzz",
+    "name": "Fang Yuan",
+    "localized_names": { "en": "Fang Yuan", "zh": "方源" },
+    "author": "kelleszzz",
+    "author_handle": "kelleszzz",
+    "author_url": "https://github.com/kelleszzz",
+    "primary_category": "Anime Characters",
+    "canonical_key": "fictional/reverend-insanity/fang-yuan",
+    "variant_note": "An independently generated v2 round-eye chibi interpretation with original animation frames and a complete 16-direction look loop.",
+    "collections": [],
+    "license": "Non-commercial use only. Independently AI-generated pet pixels by kelleszzz; Fang Yuan and Reverend Insanity remain the property of their respective rights holders.",
+    "description": "A round-eyed chibi Fang Yuan in layered black robes, with long dark hair and a jade Spring Autumn Cicada pinned at the chest.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "feixiao--lingxiaotian",
     "name": "Feixiao",
     "localized_names": { "en": "Feixiao", "zh": "飞霄" },

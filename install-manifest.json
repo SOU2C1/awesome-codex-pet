@@ -443,6 +443,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "fang-yuan--kelleszzz": {
+      "name": "Fang Yuan",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "00023cf08c1a95d7a374772be306e88b3ffff1e95ff6d86760137bf73074a5d0",
+      "petJsonBytes": 289,
+      "spritesheetSha256": "1af6fe1a22fe25beeb67d7069fb36c821aaf886d680119dbb280d5e5b0d30408",
+      "spritesheetBytes": 2221776,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "feixiao--lingxiaotian": {
       "name": "Feixiao",
       "spriteVersionNumber": 1,
