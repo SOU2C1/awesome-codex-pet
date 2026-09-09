@@ -1739,6 +1739,19 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "sleepwing--lttxzmj",
+    "name": "Sleepwing",
+    "localized_names": { "en": "Sleepwing", "zh": "眠翼鸟" },
+    "author": "lttxzmj",
+    "author_handle": "lttxzmj",
+    "author_url": "https://github.com/lttxzmj",
+    "primary_category": "Mascots",
+    "canonical_key": "original/lttxzmj/sleepwing",
+    "collections": [],
+    "license": "Artwork © lttxzmj, released for this gallery under CC BY-NC 4.0; the Sleepwing name and mascot remain trademarks/reserved.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "sonetto--chenxin-dlut",
     "name": "Sonetto",
     "localized_names": { "en": "Sonetto", "zh": "十四行诗" },

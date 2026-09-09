@@ -1393,6 +1393,16 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "sleepwing--lttxzmj": {
+      "name": "Sleepwing",
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "7ff21bf1b6ae551ff7bb561589351e2ba480a165803d8f969ef5b3263da6843c",
+      "petJsonBytes": 253,
+      "spritesheetSha256": "64805afb8b581b2bbc92f13b664cc793446c2ff5dbf36d840e3dcaef35e16bdf",
+      "spritesheetBytes": 2373044,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "sonetto--chenxin-dlut": {
       "name": "Sonetto",
       "spriteVersionNumber": 1,
