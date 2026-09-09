@@ -1,5 +1,43 @@
 [
   {
+    "number": 169,
+    "character": "狐妖小红娘-涂山苏苏",
+    "characterDetails": "涂山苏苏",
+    "franchise": "",
+    "category": "other",
+    "version": "v2",
+    "requestType": "",
+    "referenceStatus": "",
+    "references": "https://www.duitang.com/blog/?id=1421867212",
+    "referenceUrls": ["https://www.duitang.com/blog/?id=1421867212"],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "",
+    "nameLanguages": "",
+    "attribution": "",
+    "duplicateCheck": "",
+    "state": "open",
+    "status": "triage",
+    "labels": [
+      "type: request",
+      "status: triage",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "q1shi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/322381338?v=4",
+      "url": "https://github.com/q1shi"
+    },
+    "assignees": [],
+    "createdAt": "2026-09-09T10:57:24Z",
+    "updatedAt": "2026-09-09T10:57:32Z",
+    "closedAt": null,
+    "comments": 0,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/169"
+  },
+  {
     "number": 129,
     "character": "电子宠物小v",
     "characterDetails": "电子宠物小v",
