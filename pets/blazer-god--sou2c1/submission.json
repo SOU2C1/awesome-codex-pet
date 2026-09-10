@@ -1,0 +1,40 @@
+{
+  "slug": "blazer-god--sou2c1",
+  "pet_slug": "blazer-god",
+  "author_slug": "sou2c1",
+  "name": "Blazer God",
+  "localized_names": {
+    "en": "Blazer God",
+    "zh": "煌炎战神"
+  },
+  "author": "SOU2C1",
+  "author_handle": "SOU2C1",
+  "author_url": "https://github.com/SOU2C1",
+  "primary_category": "Game Characters",
+  "canonical_key": "aola-star/blazer-god",
+  "tags": [
+    "aola-star",
+    "blazer-god",
+    "mechanical",
+    "ancient",
+    "flame",
+    "fan-art",
+    "v1"
+  ],
+  "collections": [],
+  "source_type": "independently-ai-generated-fan-art",
+  "source_url": "https://aola.100bt.com/mijixinde/170994.html",
+  "source_notes": "The final runtime spritesheet was independently AI-generated and adapted for Codex under the direction of SOU2C1. Public official Aola Star character art, a user-designated AI-generated production reference rotated counterclockwise by 90 degrees, and a private logged-in backpack view supplied by SOU2C1 were used only as visual references. No pixels from the reference images, H5 canvas, or any existing spritesheet were cropped, traced, upscaled, or reused in the final asset. The backpack view and other production references are not included in the submission package. The original character and related intellectual property belong to their respective Aola Star rights holders.",
+  "final_asset_author": "SOU2C1 (AI-assisted Codex pet adaptation)",
+  "license": "Personal and repository use only; non-commercial use only. Commercial use is prohibited. The original character and related intellectual property belong to their respective Aola Star rights holders.",
+  "description": "《奥拉星》上古/机械系亚比煌炎战神的独立 AI 辅助像素宠物适配：保持昂首朝右的四足机甲侧姿、双主刀翼与环绕下半身的阳炎火环。",
+  "preview_image": "../../assets/previews/blazer-god--sou2c1/gifs/idle.gif",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  },
+  "preview_assets": {
+    "contact_sheet": "../../assets/previews/blazer-god--sou2c1/contact-sheet.png",
+    "gifs_dir": "../../assets/previews/blazer-god--sou2c1/gifs"
+  }
+}
